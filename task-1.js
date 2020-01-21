@@ -1,4 +1,4 @@
-'use script'
+'use script';
 
 const name = 'Генератор защитного поля';
 
